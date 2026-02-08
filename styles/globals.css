@@ -1,0 +1,15 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Default body font */
+body {
+  font-family: var(--font-inter);
+}
+
+/* Brand / logo font */
+.font-brand {
+  font-family: var(--font-montserrat);
+}
