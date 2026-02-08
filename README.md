@@ -36,7 +36,7 @@ The project focuses on **clean UI, solid architecture, and real-world full-stack
 - **OpenAI API** (server-side only)
 
 ### Deployment
-- **Vercel**
+- **Vercel Deployment link** : https://vercel.com/jaswanthis-projects-42d819f2/second-brain
 - **GitHub**
 
 ---
